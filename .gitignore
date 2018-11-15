@@ -1,6 +1,10 @@
-/node_modules
+node_modules/
 /vendor
 /composer.lock
 /phpcs.xml
 /.phpcs.xml
-.DS_Store
+/.DS_Store
+/app/.DS_Store
+/resources/.DS_Store
+/resources/scss/.DS_Store
+/resources/views/.DS_Store
